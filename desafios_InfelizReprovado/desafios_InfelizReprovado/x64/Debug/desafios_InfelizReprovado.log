@@ -1,0 +1,8 @@
+﻿  desafios_InfelizReprovado.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafios_InfelizReprovado\desafios_InfelizReprovado\desafios_InfelizReprovado.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_InfelizReprovado\desafios_InfelizReprovado\desafios_InfelizReprovado.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_InfelizReprovado\desafios_InfelizReprovado\desafios_InfelizReprovado.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_InfelizReprovado\desafios_InfelizReprovado\desafios_InfelizReprovado.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_InfelizReprovado\desafios_InfelizReprovado\desafios_InfelizReprovado.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_InfelizReprovado\desafios_InfelizReprovado\desafios_InfelizReprovado.cpp(45,9): warning C4101: 'inst': unreferenced local variable
+  desafios_InfelizReprovado.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\desafios_InfelizReprovado\x64\Debug\desafios_InfelizReprovado.exe
