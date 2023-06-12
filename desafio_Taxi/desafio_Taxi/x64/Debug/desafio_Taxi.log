@@ -1,0 +1,7 @@
+﻿  desafio_Taxi.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafio_Taxi\desafio_Taxi\desafio_Taxi.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafio_Taxi\desafio_Taxi\desafio_Taxi.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafio_Taxi\desafio_Taxi\desafio_Taxi.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafio_Taxi\desafio_Taxi\desafio_Taxi.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafio_Taxi\desafio_Taxi\desafio_Taxi.cpp(21,10): warning C4101: 'saida': unreferenced local variable
+  desafio_Taxi.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\desafio_Taxi\x64\Debug\desafio_Taxi.exe

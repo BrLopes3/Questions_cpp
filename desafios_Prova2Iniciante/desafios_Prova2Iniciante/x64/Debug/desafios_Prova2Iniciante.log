@@ -1,0 +1,5 @@
+﻿  desafios_Prova2Iniciante.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Prova2Iniciante\desafios_Prova2Iniciante\desafios_Prova2Iniciante.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Prova2Iniciante\desafios_Prova2Iniciante\desafios_Prova2Iniciante.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Prova2Iniciante\desafios_Prova2Iniciante\desafios_Prova2Iniciante.cpp(10,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  desafios_Prova2Iniciante.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\desafios_Prova2Iniciante\x64\Debug\desafios_Prova2Iniciante.exe

@@ -1,2 +1,4 @@
 ﻿  desafio_detecting_colisions.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafio_detecting_colisions\desafio_detecting_colisions\desafio_detecting_colisions.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafio_detecting_colisions\desafio_detecting_colisions\desafio_detecting_colisions.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   desafio_detecting_colisions.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\desafio_detecting_colisions\x64\Debug\desafio_detecting_colisions.exe

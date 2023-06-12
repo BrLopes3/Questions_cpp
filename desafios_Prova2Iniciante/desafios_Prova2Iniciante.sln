@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "desafios_Prova2Iniciante", "desafios_Prova2Iniciante\desafios_Prova2Iniciante.vcxproj", "{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Debug|x64.ActiveCfg = Debug|x64
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Debug|x64.Build.0 = Debug|x64
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Debug|x86.ActiveCfg = Debug|Win32
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Debug|x86.Build.0 = Debug|Win32
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Release|x64.ActiveCfg = Release|x64
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Release|x64.Build.0 = Release|x64
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Release|x86.ActiveCfg = Release|Win32
+		{D91105AB-0667-4BE0-8A21-9EA2FA8DC59A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA67D41-09EF-4A09-8902-D9179725AD06}
+	EndGlobalSection
+EndGlobal
