@@ -19,7 +19,10 @@ int main()
                     zAcumulado = zAcumulado + z;
                     results.push_back(jAcumulado - zAcumulado);                  
                 }
+                jAcumulado = 0;
+                zAcumulado = 0;
                 testes.push_back(results);
+                results = {};
                
             }
 
@@ -27,9 +30,9 @@ int main()
                 for (int i = 0; i < testes.size(); i++) {
                     cout << "Teste " << i+1 << endl;
                     for (int j = 0; j < testes[i].size(); j++) {
-                        cout << testes[i][j] << endl;
-                        cout << "" << endl;
+                        cout << (testes[i])[j] << endl;
                     }
+                    cout << "" << endl;
                 }
                     
             }
