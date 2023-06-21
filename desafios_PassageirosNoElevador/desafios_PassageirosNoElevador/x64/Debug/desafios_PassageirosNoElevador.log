@@ -1,0 +1,2 @@
+﻿  desafios_PassageirosNoElevador.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafios_PassageirosNoElevador\desafios_PassageirosNoElevador\desafios_PassageirosNoElevador.cpp(10,20): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
