@@ -1,0 +1,5 @@
+﻿  desafios_EstagioProgramador.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafios_EstagioProgramador\desafios_EstagioProgramador\desafios_EstagioProgramador.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_EstagioProgramador\desafios_EstagioProgramador\desafios_EstagioProgramador.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_EstagioProgramador\desafios_EstagioProgramador\desafios_EstagioProgramador.cpp(9,12): warning C4101: 'indice_melhor': unreferenced local variable
+  desafios_EstagioProgramador.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\desafios_EstagioProgramador\x64\Debug\desafios_EstagioProgramador.exe
