@@ -1,0 +1,7 @@
+﻿  desafios_Aeroporto.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Aeroporto\desafios_Aeroporto\desafios_Aeroporto.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Aeroporto\desafios_Aeroporto\desafios_Aeroporto.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Aeroporto\desafios_Aeroporto\desafios_Aeroporto.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Aeroporto\desafios_Aeroporto\desafios_Aeroporto.cpp(8,6): warning C4101: 'maximoTrafego': unreferenced local variable
+G:\My Drive\AULAS\NITRO\projects c++\desafios_Aeroporto\desafios_Aeroporto\desafios_Aeroporto.cpp(9,6): warning C4101: 'maximoIndice': unreferenced local variable
+  desafios_Aeroporto.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\desafios_Aeroporto\x64\Debug\desafios_Aeroporto.exe
