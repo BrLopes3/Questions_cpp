@@ -1,0 +1,6 @@
+﻿  stringToInteger.cpp
+G:\My Drive\AULAS\NITRO\projects c++\stringToInteger\stringToInteger\stringToInteger.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\stringToInteger\stringToInteger\stringToInteger.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\stringToInteger\stringToInteger\stringToInteger.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\stringToInteger\stringToInteger\stringToInteger.cpp(28,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  stringToInteger.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\stringToInteger\x64\Debug\stringToInteger.exe

@@ -1,0 +1,5 @@
+﻿  desafios_TorreDeHanoi.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafios_TorreDeHanoi\desafios_TorreDeHanoi\desafios_TorreDeHanoi.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_TorreDeHanoi\desafios_TorreDeHanoi\desafios_TorreDeHanoi.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_TorreDeHanoi\desafios_TorreDeHanoi\desafios_TorreDeHanoi.cpp(14,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  desafios_TorreDeHanoi.vcxproj -> G:\My Drive\AULAS\NITRO\projects c++\desafios_TorreDeHanoi\x64\Debug\desafios_TorreDeHanoi.exe
