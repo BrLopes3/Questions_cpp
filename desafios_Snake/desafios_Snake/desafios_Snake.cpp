@@ -1,7 +1,7 @@
 #include <iostream>;
 #include <vector>;
 using namespace std;
-
+//challenge Snake
 int main() {
 
     int n, m; //n=numero de linhas, m=numero de colunas
@@ -34,7 +34,7 @@ int main() {
         }
 
         cout << ovos << endl;
+    }
 
-
-        return 0;
-        }
+    return 0;
+}
