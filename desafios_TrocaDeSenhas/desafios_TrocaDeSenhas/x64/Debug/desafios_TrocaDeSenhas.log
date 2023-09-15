@@ -1,0 +1,4 @@
+﻿  desafios_TrocaDeSenhas.cpp
+G:\My Drive\AULAS\NITRO\projects c++\desafios_TrocaDeSenhas\desafios_TrocaDeSenhas\desafios_TrocaDeSenhas.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_TrocaDeSenhas\desafios_TrocaDeSenhas\desafios_TrocaDeSenhas.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\My Drive\AULAS\NITRO\projects c++\desafios_TrocaDeSenhas\desafios_TrocaDeSenhas\desafios_TrocaDeSenhas.cpp(10): error C4700: uninitialized local variable 'n' used
