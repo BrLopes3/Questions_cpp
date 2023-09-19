@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	vector<vector<char>> battle(10, vector<char>(10));
+	vector< vector<char> > battle(10, vector<char>(10));
 
    //receive the matrix that represents the battle
 	for (int i = 0; i < 10; i++) {
